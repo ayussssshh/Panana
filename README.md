@@ -1,4 +1,4 @@
-# project-name
+# Panana
 
 Direct file transfer between two users. The server never stores your files.
 
